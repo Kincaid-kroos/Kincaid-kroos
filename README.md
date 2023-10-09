@@ -10,6 +10,8 @@ Committed to staying current with the latest technologies
 to deliver outstanding solutions
 & open to learning from industry experts.
 
+I`m open for any oppoertunities.
+
 <!--
 **Kincaid-kroos/Kincaid-kroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
