@@ -10,6 +10,13 @@ Committed to staying current with the latest technologies
 to deliver outstanding solutions
 & open to learning from industry experts.
 
+SKILLSET, 
+Front-End: JavaScript, React, NextJs,HTML5, CSS3, Tailwind CSS, Bootstrap and Alpine Js.
+Back-End: Both SQL & NoSQL DBs, Python, Django, PHP, Laravel
+Tools : Git, GitHub, Heroku, Vercel, Mobile/Responsive Development, Chrome Dev Tools, Jira.
+System Architecture: AWS, Docker
+Professional: Teamwork, Communication, Problem Solving, Work Enthusiam.
+
 I`m open for any opportunities.
 
 <!--
