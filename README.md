@@ -7,7 +7,7 @@ With a combination of both class and self-taught experience,
 i have skills and passion to build robust, <br/>and easily maintainable
 web applications and Analyzing big data
 Committed to staying current <br/> with the latest technologies
-to deliver <br/> outstanding solutions
+to deliver outstanding solutions <br/>
 & open to learning from industry experts.
 
 SKILLSET.
