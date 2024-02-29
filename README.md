@@ -6,7 +6,7 @@ and a Data Analyst
 With a combination of both class and self-taught experience,
 i have skills and passion to build robust, <br/>and easily maintainable
 web applications and Analyzing big data
-Committed to staying current with the latest technologies
+Committed to staying current <br/> with the latest technologies
 to deliver <br/> outstanding solutions
 & open to learning from industry experts.
 
