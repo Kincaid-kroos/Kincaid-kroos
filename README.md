@@ -13,9 +13,9 @@ to deliver outstanding solutions
 SKILLSET.
 
 Front-End: JavaScript, React, NextJs,HTML5, CSS3, Tailwind CSS, Bootstrap and Alpine Js.<br/>
-Back-End: Both SQL & NoSQL DBs, Python, Django, PHP, Laravel
-Tools : Git, GitHub, Heroku, Vercel, Mobile/Responsive Development, Chrome Dev Tools, Jira.
-System Architecture: AWS, Docker
+Back-End: Both SQL & NoSQL DBs, Python, Django, PHP, Laravel <br/>
+Tools : Git, GitHub, Heroku, Vercel, Mobile/Responsive Development, Chrome Dev Tools, Jira. <br/>
+System Architecture: AWS, Docker <br/>
 Professional: Teamwork, Communication, Problem Solving, Work Enthusiam.
 
 I`m open for any opportunities.
